@@ -18,8 +18,7 @@ minhas habilidades na criação de páginas e aplicações web.
 
 ### 📂 Projetos
 
-- [Meu Portfólio](https://github.com/Junior-Moraes)
-
+- [Meu Portfólio] (https://junior-moraes.github.io/Meu-Portfolio-Trilhas/)
 ### 📫 Onde me encontrar
 
 - GitHub: (https://github.com/Junior-Moraes)
